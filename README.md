@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](https://github.com/FendriFiras/Aryamanz29/blob/master/images/github-banner.png)
+
 <hr>
 
 
